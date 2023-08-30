@@ -8,4 +8,4 @@ https://www.figma.com/file/mVi4AWJVDrWENpaUXNlImq/Untitled?type=design&node-id=0
 <p>Build a house-hunting application that facilitates users to rent houses, most of who looking for a house faced some difficulties, help to choose a suitable house.</p>
 <h1>User Journey</h1>
 <p>As a user, I can see all available houses that able to rent, search to find houses and I can add any liked house to my favorite list and see the differences between two houses from my favorite list, inside my profile I have my information and control panel for my own houses available to rent.</p>
-<h1>By:DevAua</h1>
+<h1>By:DevAya</h1>
