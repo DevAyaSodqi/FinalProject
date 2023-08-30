@@ -1,4 +1,4 @@
-#House Hunt App
+<h1>House Hunt App</h1>
 <p>house-hunting App that facilitates to access and rent available homes</p>
 <h1>Demo</h1>
 https://www.figma.com/file/mVi4AWJVDrWENpaUXNlImq/Untitled?type=design&node-id=0-1&mode=design&t=fsIVC3YHxheM2JM1-0
